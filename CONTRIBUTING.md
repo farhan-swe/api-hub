@@ -1,36 +1,59 @@
-## 🛠️ CONTRIBUTING.md
+# 👥 Contributing to Public APIs Hub
 
-# 🛠️ Contributing to API Hub
+Thanks for your interest in contributing! 💙  
+This project is all about sharing **free and useful APIs** for developers.  
+You can easily add new APIs or help improve the site!
 
-Thank you for helping make API Hub better!
+---
 
+## 🚀 How to Add a New API
 
-### 🧱 Add a new API
-- Open `apis.json`
-- Add your new API object at the end, just before the closing `]`
-- Keep the format consistent and valid JSON (use a comma between entries, no trailing commas)
+**1. Open the `apis.json` file.**
 
+**2. Add your API details like this:**
 
-### ✅ Example
-```json
-{
-  "name": "Dog CEO API",
-  "description": "Random dog images",
-  "link": "https://dog.ceo/dog-api/",
-  "category": "Fun",
-  "auth": "None",
-  "cors": "yes",
-  "tags": ["dogs", "images"]
-}
+   ```json
+   {
+     "name": "Your API Name",
+     "description": "Short description of what this API does.",
+     "link": "https://exampleapi.com",
+     "category": "Category Name",
+     "auth": "None | API Key | OAuth",
+     "cors": "Yes | No | Unknown",
+     "tags": ["keyword1", "keyword2"]
+   }
 ```
-## 🚀 Submitting Changes
 
-1. Fork the repo
+**3. Make sure:**
 
-2. Make your changes
+  - No extra commas (use jsonlint.com
+to check validity).
 
-3. Create a Pull Request describing what you added or improved
+  - All fields are filled correctly.
 
-4. ## Please test your apis.json file to ensure it’s valid JSON before submitting!
+**4. Save your changes.**
 
+## Submit Your Changes
 
+  1. Fork this repo.
+
+  2. Create a new branch (example: add-weather-api).
+
+  3. Commit & push your changes.
+
+  4. Open a Pull Request (PR) on GitHub.
+
+Once approved, your name will appear in CONTRIBUTORS.md 🎉
+
+## ✅ Quick Rules
+
++ Follow the same JSON format.
+
++ Don’t repeat existing APIs.
+
++ Use clear and short descriptions.
+
++ Be respectful — this is a friendly community ❤️
+
+## Thank you for contributing!
+Together, we make open APIs easy to find 🌐
