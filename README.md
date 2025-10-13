@@ -5,6 +5,10 @@ A collaborative project where anyone can **add APIs**, improve the list, or enha
 
 ---
 
+### 🚀 Live Demo  
+👉 [Click here for live preview](https://khdxsohee.github.io/api-hub/)
+
+---
 ## 🚀 Features
 - 🔍 Search APIs by name or description  
 - 🧩 Filter by category and authentication type  
@@ -12,10 +16,6 @@ A collaborative project where anyone can **add APIs**, improve the list, or enha
 - 🌗 Light / Dark theme toggle  
 - 💾 JSON-powered, easy to contribute
 
----
-💡 Live Demo
-[View on GitHub Pages] ()
----
 
 ## 🛠️ How to Contribute
 We love contributions!  
