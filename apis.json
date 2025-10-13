@@ -70,5 +70,69 @@
     "auth": "None",
     "cors": "yes",
     "tags": ["ip", "network", "tools"]
+  },
+  {
+    "name": "JokeAPI",
+    "description": "Programming jokes, dark jokes, and more.",
+    "link": "https://v2.jokeapi.dev/",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["jokes", "humor", "fun"]
+  },
+  {
+    "name": "Numbers API",
+    "description": "Facts about numbers, math, dates, and years.",
+    "link": "http://numbersapi.com/",
+    "category": "Education",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["math", "facts", "numbers"]
+  },
+  {
+    "name": "Quote Garden",
+    "description": "Random and categorized quotes for developers.",
+    "link": "https://quote-garden.herokuapp.com/api/v3/quotes",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["quotes", "motivation", "text"]
+  },
+  {
+    "name": "SpaceX API",
+    "description": "Get data about launches, rockets, and ships.",
+    "link": "https://api.spacexdata.com/v4/",
+    "category": "Science",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["space", "rockets", "science"]
+  },
+  {
+    "name": "PokeAPI",
+    "description": "All the Pokémon data you’ll ever need.",
+    "link": "https://pokeapi.co/",
+    "category": "Games",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["pokemon", "games", "data"]
+  },
+  {
+    "name": "Coindesk Bitcoin API",
+    "description": "Current and historical Bitcoin prices.",
+    "link": "https://api.coindesk.com/v1/bpi/currentprice.json",
+    "category": "Finance",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["bitcoin", "crypto", "prices"]
+  },
+  {
+    "name": "Bored API",
+    "description": "Find random activities when you’re bored.",
+    "link": "https://www.boredapi.com/api/activity/",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["fun", "activity", "random"]
   }
+  
 ]
