@@ -13,6 +13,9 @@ A collaborative project where anyone can **add APIs**, improve the list, or enha
 - 💾 JSON-powered, easy to contribute
 
 ---
+💡 Live Demo
+[View on GitHub Pages] ()
+---
 
 ## 🛠️ How to Contribute
 We love contributions!  
