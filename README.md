@@ -47,11 +47,12 @@ git push
 5. Create a Pull Request 🚀
 ---
 
-# 👥 Contributors
-Thanks to these awesome people! 💙  
+## 👥 Contributors
+Thanks to all these awesome people for making **Public APIs Hub** better! 💙  
 
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
+
 
 
 
