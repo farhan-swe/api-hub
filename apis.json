@@ -1,0 +1,74 @@
+[
+  {
+    "name": "OpenWeatherMap",
+    "description": "Access current weather and forecasts worldwide.",
+    "link": "https://openweathermap.org/api",
+    "category": "Weather",
+    "auth": "API Key",
+    "cors": "yes",
+    "tags": ["weather", "forecast", "temperature"]
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Get random fun facts about cats.",
+    "link": "https://catfact.ninja/",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["animals", "fun", "facts"]
+  },
+  {
+    "name": "Dog CEO",
+    "description": "Fetch random pictures of dogs.",
+    "link": "https://dog.ceo/dog-api/",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["dogs", "images", "fun"]
+  },
+  {
+    "name": "Advice Slip",
+    "description": "Generate random pieces of advice.",
+    "link": "https://api.adviceslip.com/",
+    "category": "Fun",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["quotes", "advice", "fun"]
+  },
+  {
+    "name": "Public APIs List",
+    "description": "Get a list of public APIs (meta API).",
+    "link": "https://api.publicapis.org/entries",
+    "category": "Developer",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["developer", "meta", "public"]
+  },
+  {
+    "name": "Unsplash",
+    "description": "High-quality free photos via API.",
+    "link": "https://unsplash.com/developers",
+    "category": "Images",
+    "auth": "API Key",
+    "cors": "yes",
+    "tags": ["photos", "images", "stock"]
+  },
+  {
+    "name": "ExchangeRate.host",
+    "description": "Free currency conversion and forex data.",
+    "link": "https://exchangerate.host/",
+    "category": "Finance",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["currency", "finance", "exchange"]
+  },
+  {
+    "name": "IPify",
+    "description": "Get your public IP address in JSON format.",
+    "link": "https://www.ipify.org/",
+    "category": "Tools",
+    "auth": "None",
+    "cors": "yes",
+    "tags": ["ip", "network", "tools"]
+  }
+]

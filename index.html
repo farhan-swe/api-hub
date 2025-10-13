@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Public APIs Hub</title>
+<link rel="stylesheet" href="styles.css" />
+<meta name="description" content="A community-driven collection of free public APIs — search, filter and contribute via GitHub." />
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1 class="logo">Public APIs Hub</h1>
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search APIs, tags or description..." />
+      <button id="randomBtn" title="Show random API">🎲 Random</button>
+      <button id="themeToggle" aria-label="Toggle theme">🌗</button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="meta">
+    <p>Community-driven directory of useful free & freemium APIs. Contribute via <a href="#contrib">CONTRIBUTING.md</a>.</p>
+    <div class="filters">
+      <select id="categoryFilter">
+        <option value="all">All categories</option>
+      </select>
+      <select id="authFilter">
+        <option value="all">All auth</option>
+        <option value="none">No Auth</option>
+        <option value="apiKey">API Key</option>
+        <option value="oauth">OAuth</option>
+      </select>
+    </div>
+  </section>
+
+  <section id="cards" class="cards-grid"></section>
+
+  <section id="empty" class="empty" hidden>
+    <p>No APIs found. Try a different search or filter.</p>
+  </section>
+
+  <section class="contribute" id="contrib">
+    <h2>Contribute</h2>
+    <p>Want to add an API? Open a Pull Request adding an entry to <code>apis.json</code>. See <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for format and steps.</p>
+  </section>
+</main>
+
+<template id="cardTpl">
+  <div class="api-card glass">
+    <div class="card-header">
+      <h3 class="api-name"></h3>
+      <div class="category"></div>
+    </div>
+    <p class="api-desc"></p>
+    <div class="meta-info">
+      <span class="auth"></span>
+      <span class="cors"></span>
+    </div>
+    <div class="tags-row"></div>
+    <div class="card-actions">
+      <button class="openBtn">Open</button>
+      <button class="copyBtn">Copy</button>
+    </div>
+  </div>
+</template>
+
+<script src="scripts.js"></script>
+</body>
+</html>
