@@ -45,10 +45,13 @@ git push
 ```
 
 5. Create a Pull Request 🚀
+---
 
-### 💡 Live Demo
+# 👥 Contributors
+Thanks to these awesome people! 💙  
 
-### 📄 License
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 
 
