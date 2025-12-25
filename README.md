@@ -1,7 +1,7 @@
 # 🌐 API Hub
 
 Discover and share **free public APIs** for developers, students, and open-source enthusiasts.  
-A collaborative project where anyone can **add APIs**, improve the list, or enhance the UI.
+A collaborative project where anyone can **add APIs**, improve the list, or enhances the UI.
 
 ---
 
