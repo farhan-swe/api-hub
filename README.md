@@ -6,7 +6,7 @@ A collaborative project where anyone can **add APIs**, improve the list, or enha
 ---
 
 ### 🚀 Live Demo  
-👉 [Click here for live preview](https://khdxsohee.github.io/api-hub/)
+👉 [Click here for live preview](https://farhan-swe.github.io/api-hub/)
 
 ---
 ## 🚀 Features
@@ -24,7 +24,7 @@ Follow the steps below to add a new API or improve the site.
 1. **Fork** this repository  
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/khdxsohee/api-hub.git
+   git clone https://github.com/farhan-swe/api-hub.git
    ```
 
 3. Add your **API** in apis.json file:
@@ -57,10 +57,10 @@ Thanks to all these awesome people for making **Public APIs Hub** better! 💙
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/khdxsohee">
-            <img src="https://avatars.githubusercontent.com/u/140187476?v=4" width="100;" alt="khdxsohee"/>
+        <a href="https://github.com/farhan-swe">
+            <img src="https://avatars.githubusercontent.com/u/140187476?v=4" width="100;" alt="farhan-swe"/>
             <br />
-            <sub><b>Khdxsohee</b></sub>
+            <sub><b>farhan-swe</b></sub>
         </a>
     </td></tr>
 </table>
