@@ -60,7 +60,7 @@ Thanks to all these awesome people for making **Public APIs Hub** better! 💙
         <a href="https://github.com/farhan-swe">
             <img src="https://avatars.githubusercontent.com/u/140187476?v=4" width="100;" alt="farhan-swe"/>
             <br />
-            <sub><b>farhan-swe</b></sub>
+            <sub><b>Farhan-swe</b></sub>
         </a>
     </td></tr>
 </table>
